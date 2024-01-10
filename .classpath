@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/thiba/OneDrive/Documents/inge/Theorie_Langue/projet_compil_etu2/antlr-4.13.0-complete.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
